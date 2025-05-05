@@ -1,0 +1,13 @@
+# Generic things
+.idea/*
+*.log
+*.swp
+*.swo
+*.tmp
+.DS_Store
+*.bak
+
+# Bash Modules specific directories
+modules/aliases.d/*
+modules/bin/*
+modules/helpers.d/*
