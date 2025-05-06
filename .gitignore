@@ -8,6 +8,8 @@
 *.bak
 
 # Bash Modules specific directories
+modules/
+modules/*
 modules/aliases.d/*
 modules/bin/*
 modules/helpers.d/*
